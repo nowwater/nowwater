@@ -1,8 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nowwater's%20github&fontSize=50)
 <!-- A3DCBE -->
-<p align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=nowwater&theme=default' height=250/>
-</p>
+
+<h3 align="center"> 🗽 Development EXP 🗽</h3>
+
+<br/>
+
+<div text-align="center" style="width: 100%; margin-right: auto; margin-left: auto;">
+
+  <img align='left' src='https://github-readme-stats.vercel.app/api?username=nowwater&theme=default' height=40% width=45%/>
+     
+  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggolong" width=40%>
+     
+  <br> <br> <br> <br> <br> 
+</div>
+
+<div style="clear:both"> </div>
 
 <br> <br> <br> <br> <br> 
 
