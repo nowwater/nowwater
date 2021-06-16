@@ -7,9 +7,9 @@
 
 <div text-align="center" style="width: 100%; margin-right: auto; margin-left: auto;">
 
-  <img align='left' src='https://github-readme-stats.vercel.app/api?username=nowwater&theme=default' height=40% width=45%/>
+  <img align='left' src='https://github-readme-stats.vercel.app/api?username=nowwater&theme=default' height=40% width=50%/>
      
-  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggolong" width=40%>
+  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggolong" width=45%>
      
   <br> <br> <br> <br> <br> 
 </div>
